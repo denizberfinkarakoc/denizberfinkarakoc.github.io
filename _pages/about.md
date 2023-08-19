@@ -86,10 +86,10 @@ Professional Activity
 		<b>Session Chair</b>
 		<ul>
 			<li>
-				INFORMS 2023
+				Empirical analysis for food supply chain decision-making, INFORMS Annual Meeting 2023
 			</li>
 			<li>
-				AGU 2023
+				Agri-food supply chain resilience and sustainability with a focus on human impacts on forest ecosystems, AGU Fall Meeting 2023
 			</li>
 		</ul>
 	</li>
