@@ -19,7 +19,16 @@ Honors
 ============
 <ul>
 	<li>
-		Our paper is featured as the cover of Nature Food <a href='https://www.nature.com/natfood/volumes/4/issues/7'>July 2023 Issue</a>!
+		Our paper is featured as the cover of <a href='https://www.nature.com/natfood/volumes/4/issues/7'>Nature Food July 2023 Issue</a>!
+	</li>
+	<li>
+		I have been invited to the 2023 CEE MIT Rising Stars!
+	</li>
+	<li>
+		I have been awarded the 2023-2024 Dissertation Completion Fellowship by UIUC Graduate College!
+	</li>
+	<li>
+		I have been awarded the ACDIS Summer 2023 Fellowship by UIUC College of Liberal Arts & Sciences!
 	</li>
 </ul>
 
