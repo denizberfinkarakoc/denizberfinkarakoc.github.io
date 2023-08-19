@@ -34,7 +34,7 @@ Honors
 
 
 
-Publications
+Selected Publications
 ============
 <ul>
 	<li><b>Structural chokepoints determine the resilience of agri-food supply chains in the United States</b>
@@ -42,6 +42,36 @@ Publications
 			<b>Deniz Berfin Karakoc</b>, Megan Konar, Michael J. Puma, Lav V. Varshney
 			<br/>
 			Nature Food 2023 <a href='https://www.nature.com/articles/s43016-023-00793-y'>[Paper]</a> <br/>
+	</li>
+	<li><b>Analyzing the tradeoff between vulnerability and recoverability investments for interdependent infrastructure networks</b>
+			<br/>
+			<b>Deniz Berfin Karakoc</b>, Kash Barker, Andrés González
+			<br/>
+			Socio-Economic Planning Sciences 2023 <a href='https://www.sciencedirect.com/science/article/abs/pii/S0038012123000010?casa_token=uMi7WdvYP2kAAAAA:MjgPDiT5YmwB4TWxW1SWafYpwJCUfKTgKTjacJ_X4TWAFbAxtHiLvlJSD9XJBPAult0Sdu0pfdU'>[Paper]</a> <br/>
+	</li>
+	<li><b>Food flows between counties in the United States from 2007 to 2017</b>
+			<br/>
+			<b>Deniz Berfin Karakoc</b>, Junren Wang, Megan Konar
+			<br/>
+			Environmental Research Letters 2022 <a href='https://iopscience.iop.org/article/10.1088/1748-9326/ac5270/meta'>[Paper]</a> <br/>
+	</li>
+	<li><b>A Complex Network Framework for the Efficiency and Resilience Trade-off in Global Food Trade</b>
+			<br/>
+			<b>Deniz Berfin Karakoc</b>, Megan Konar
+			<br/>
+			Environmental Research Letters 2021 <a href='https://iopscience.iop.org/article/10.1088/1748-9326/ac1a9b/meta'>[Paper]</a> <br/>
+	</li>
+	<li><b>Social-Vulnerability and Equity Perspectives on Interdependent Infrastructure Network Component Importance</b>
+			<br/>
+			<b>Deniz Berfin Karakoc</b>, Kash Barker, Christopher Zobel, Yasser Almoghathawi
+			<br/>
+			Sustainable Cities and Society 2020 <a href='https://www.sciencedirect.com/science/article/abs/pii/S2210670720300597?casa_token=YTMRnz10gDYAAAAA:cSyn5DfM-gb1xXnZqBUnxOheHXuqlEUwuvRt4lycL3fVoSJzd0Ex0FjJ3yIoTYGVN0782_d0PSU'>[Paper]</a> <br/>
+	</li>
+	<li><b>Community-Resilience Driven Restoration Model for Interdependent Infrastructure Networks</b>
+			<br/>
+			<b>Deniz Berfin Karakoc</b>, Yasser Almoghathawi, Kash Barker, Andrés González, Shima Mohebbi
+			<br/>
+			International Journal of Disaster Risk Reduction 2019 <a href='https://www.sciencedirect.com/science/article/abs/pii/S2212420919301992?casa_token=VcaM_PW11GQAAAAA:6g7OtHFHLaPzRMJJXnZTVukaPNwu0vSyS1gjbKsMlinA1JuOOMWCdBwr6REDcdLThXkumiOpllo'>[Paper]</a> <br/>
 	</li>
 </ul>
 
