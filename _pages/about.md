@@ -19,7 +19,7 @@ Honors
 ============
 <ul>
 	<li>
-		Our paper is featured as the cover of Nature Food [July 2023 Issue](https://www.nature.com/natfood/volumes/4/issues/7)!
+		Our paper is featured as the cover of Nature Food <a href='https://www.nature.com/natfood/volumes/4/issues/7'>July 2023 Issue</a>!
 	</li>
 </ul>
 
@@ -32,7 +32,7 @@ Publications
 			<br/>
 			<b>Deniz Berfin Karakoc</b>, Megan Konar, Michael J. Puma, Lav V. Varshney
 			<br/>
-			Nature Food 2023 [Paper](https://www.nature.com/articles/s43016-023-00793-y)<br/>
+			Nature Food 2023 <a href='https://www.nature.com/articles/s43016-023-00793-y'>[Paper]</a> <br/>
 	</li>
 </ul>
 
