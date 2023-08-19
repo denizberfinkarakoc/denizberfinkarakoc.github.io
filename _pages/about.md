@@ -15,26 +15,11 @@ My research centers on understanding and enhancing the resilience of cyber-physi
 I am currently a senior Ph.D. candidate in the Department of Civil and Environmental Engineering at the [University of Illinois Urbana-Champaign](https://cee.illinois.edu/) with the specialization area of Sustainable and Resilient Infrastructure Systems, where I am advised by [Dr. Megan Konar](https://mkonar.cee.illinois.edu/). My dissertation focuses on the resilience of agri-food flow networks and their supporting transportation architecture across spatial scales.
 
 
-Updates
-=======
-<ul>
-	<li> <b>[July 2023]</b> Our paper got selected to be at the cover of [Nature Food July Issue]()! </li>
-</ul>
-
-
 Honors
 ============
 <ul>
 	<li>
-		<b>Session Chair</b>
-		<ul>
-			<li>
-				INFORMS 2023
-			</li>
-			<li>
-				AGU 2023
-			</li>
-		</ul>
+		Our paper is featured as the cover of Nature Food [July 2023 Issue](https://www.nature.com/natfood/volumes/4/issues/7)!
 	</li>
 </ul>
 
@@ -47,8 +32,7 @@ Publications
 			<br/>
 			<b>Deniz Berfin Karakoc</b>, Megan Konar, Michael J. Puma, Lav V. Varshney
 			<br/>
-			Nature Food 2023 [Paper](https://www.nature.com/articles/s43016-023-00793-y)
-			<br/>
+			Nature Food 2023 [Paper](https://www.nature.com/articles/s43016-023-00793-y)<br/>
 	</li>
 </ul>
 
