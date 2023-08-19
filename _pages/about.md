@@ -34,7 +34,7 @@ Honors
 
 
 
-Selected Publications
+Publications
 ============
 <ul>
 	<li><b>Structural chokepoints determine the resilience of agri-food supply chains in the United States</b>
