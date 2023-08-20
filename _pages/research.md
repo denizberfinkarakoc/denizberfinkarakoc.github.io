@@ -29,7 +29,7 @@ Many nations rely on imported grain to meet their dietary requirements. Countrie
         margin-left: auto;
         margin-right: auto;" />
  <br>
- <em>Caption</em>
+ <em>Mass imports of empirical, optimal, and optimum grain portfolios for case study nations.</em>
  </p>
 
 ## Structural chokepoints of U.S. agri-food flow networks
@@ -40,6 +40,15 @@ Many nations rely on imported grain to meet their dietary requirements. Countrie
 The agricultural and food systems of the United States are critical for ensuring the stability of both domestic and global food systems. Thus, it is essential to understand their structural resilience to a suite of threats. I employed connectivity, resilience, and efficiency metrics from complex network statistics to identify the spatially resolved structural chokepoints in the agri-food supply chains of the United States. Urban centers emerged as key hubs for processed food transit, but diverse food production geographies led to distinct chokepoints. These chokepoints are also found to be generally consistent through time, particularly for processed food commodities.
 <!-- </p> -->
 
+<p align="center">
+ <img src="/files/transit.jpg"
+     style="display:block;
+        margin-left: auto;
+        margin-right: auto;" />
+ <br>
+ <em>Structural chokepoints of all agri-food aggregated network corresponds to transit hubs.</em>
+ </p>
+
 ## Temporal food flows between U.S. counties
 
 <!-- <p style="text-align: justify"> -->
@@ -47,6 +56,15 @@ The agricultural and food systems of the United States are critical for ensuring
  
 I built on the existing literature in fine grained spatial fluxes of food, but with the additional consideration of time. I developed an improved version of the Food Flow Model, a data-driven model, to estimate food flows (kg) between all county pairs across all food commodity groups for the years 2007, 2012, and 2017 which requires estimating 206.3 million links. Then, I determined the core counties to the U.S. food flow networks through time by leveraging a multi-criteria decision analysis technique. To share the key findings of this study with general public, an openly available data visualization portal, [foodflows.org](https://foodflows.org/), is built together with the College of Education.
 <!-- </p> -->
+
+<p align="center">
+ <img src="/files/county.jpg"
+     style="display:block;
+        margin-left: auto;
+        margin-right: auto;" />
+ <br>
+ <em>Food in and out flows for over 3000 counties are estimated per commodity through time.</em>
+ </p>
 
 ## Resilience and efficiency trade-off in global food trade
 
