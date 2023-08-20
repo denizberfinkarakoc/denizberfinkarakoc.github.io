@@ -10,9 +10,9 @@ Agri-food supply chains are complex systems that incorporate production, distrib
 ## Mapping U.S. agri-food flows on multi-modal transportation infrastructure
 
 <!-- <p style="text-align: justify"> -->
-<b>Currently, I leveraged my experience in data analytics, network science, and geographic information science and developed a unified framework to map U.S. domestic, import, and export food flows on multi-modal transportation infrastructure. </b>
+<b>Currently, I leveraged my experience in data analytics, network science, and geographic information science and to map U.S. food flows on multi-modal transportation infrastructure. </b>
  
-In this study, I will evaluate how the load of agri-food supply chains change by flow type and transportation mode. Further, I will assess the efficiency vs. adaptability against disruptions balance among inland highways, railways, and waterways within the U.S. using econometrics and complex network science. My findings will illuminate the real-world implications of cost vs. benefit in agri-food flow network resilience.
+In this study, through developing a unified framework, I will evaluate the load of agri-food supply chains by flow type on multiple transportation modes. Further, I will assess the efficiency vs. adaptability against disruptions balance among inland highways, railways, and waterways within the U.S. using econometrics and complex network science. My findings will illuminate the real-world implications of cost vs. benefit in agri-food flow network resilience. This study is soon to be submitted.
 <!-- </p> -->
 
 ## Optimization of national grain imports to balance risk vs. return
@@ -20,7 +20,7 @@ In this study, I will evaluate how the load of agri-food supply chains change by
 <!-- <p style="text-align: justify"> -->
 <b>Recently, I explored the interplay of unit cost, cost volatility, and supply diversity in national grain imports with modern portfolio theory. </b>
  
-Many nations rely on imported grain to meet their dietary requirements. Countries aim to balance import risk with the expected return of their grain supplies. I brought these dual objectives of grain trade together by employing modern portfolio theory. Nations that rely on more risky suppliers are observed to be also paying more unit cost of trade. To introduce portfolios that adeptly balance risk vs. return, I formulated a mean-variance optimization model with mass balance. I proposed both optimal and optimum portfolios to determine opportunities for importer nations to achieve more stable and diverse grain supplies, while also acknowledging economic considerations. 
+Many nations rely on imported grain to meet their dietary requirements. Countries aim to balance import risk with the expected return of their grain supplies. I brought these dual objectives of grain trade together by employing modern portfolio theory. Nations that rely on more risky suppliers are observed to be also paying more unit cost of trade. To introduce portfolios that adeptly balance risk vs. return, I formulated a mean-variance optimization model with mass balance. I proposed both optimal and optimum portfolios to determine opportunities for importer nations to achieve more stable and diverse grain supplies, while also acknowledging economic considerations. This study is currently under review.
 <!-- </p> -->
 
 ## Structural chokepoints of U.S. agri-food flow networks
@@ -28,7 +28,7 @@ Many nations rely on imported grain to meet their dietary requirements. Countrie
 <!-- <p style="text-align: justify"> -->
 <b>I fused multi-criteria decision-making and network science for a vital component-importance analysis of food flows within the U.S. to address President Biden's Executive Order [#1407](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/). </b>
  
-The agricultural and food systems of the United States are critical for ensuring the stability of both domestic and global food systems. Thus, it is essential to understand their structural resilience to a suite of threats. I employed connectivity, resilience, and efficiency metrics from complex network statistics to identify the spatially resolved structural chokepoints in the agri-food supply chains of the United States. Urban centers emerged as key hubs for processed food transit, but diverse food production geographies led to distinct chokepoints. These pinpointed structural chokepoints are also found to be generally consistent through time, particularly for processed food commodities.
+The agricultural and food systems of the United States are critical for ensuring the stability of both domestic and global food systems. Thus, it is essential to understand their structural resilience to a suite of threats. I employed connectivity, resilience, and efficiency metrics from complex network statistics to identify the spatially resolved structural chokepoints in the agri-food supply chains of the United States. Urban centers emerged as key hubs for processed food transit, but diverse food production geographies led to distinct chokepoints. These chokepoints are also found to be generally consistent through time, particularly for processed food commodities.
 <!-- </p> -->
 
 ## Temporal food flows between U.S. counties
