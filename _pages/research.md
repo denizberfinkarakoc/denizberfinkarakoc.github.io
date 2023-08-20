@@ -3,14 +3,14 @@ permalink: /research/
 title: "Research"
 ---
 
-I have had the opportunity to lead a number of interesting research projects during my M.S. and my Ph.D. My research combines network science, data analysis, optimization, multi-criteria decision-making, econometrics, and geographic information science methods to investigate the resilience of agri-food flow networks across spatial scales and then proposes practical solutions ensuring societal well-being and environmental stability. 
+I have had the opportunity to lead a number of interesting research projects during my Ph.D. My research combines network science, data analysis, optimization, multi-criteria decision-making, econometrics, and geographic information science methods to investigate the resilience of agri-food flow networks across spatial scales and then proposes practical solutions ensuring societal well-being and environmental stability. 
 
 Agri-food supply chains are complex systems that incorporate production, distribution, processing, and consumption of perishable goods. Their safeguarding is essential to feed humanity. However, food supply chains have become subject to an array of unforeseen threats, such as climate change, pandemics, cyber intrusions, geopolitical conflicts, and economic crises. As “affordable and available food for everyone, at all times” ensures a stable economy and civil rest, my research recognizes food supply chains as non-traditional defense objects. I concentrate on their distribution step (i.e., food flow networks) which serves as the bridge between supply and demand. I lead descriptive and predictive analytical studies to ensure resilient agri-food flow networks; thus, food security. Here is a summary of some of my research efforts.
 
 ## Mapping U.S. agri-food flows on multi-modal transportation infrastructure
 
 <!-- <p style="text-align: justify"> -->
-<b>Currently, I leveraged my experience in data analytics, network science, and geographic information science and to map U.S. food flows on multi-modal transportation infrastructure. </b>
+<b>Currently, I leverage my experience in data analytics, network science, and geographic information science and to map U.S. food flows on multi-modal transportation infrastructure. </b>
  
 In this study, through developing a unified framework, I will evaluate the load of agri-food supply chains by flow type on multiple transportation modes. Further, I will assess the efficiency vs. adaptability against disruptions balance among inland highways, railways, and waterways within the U.S. using econometrics and complex network science. My findings will illuminate the real-world implications of cost vs. benefit in agri-food flow network resilience. This study is soon to be submitted.
 <!-- </p> -->
@@ -46,6 +46,4 @@ I built on the existing literature in fine grained spatial fluxes of food, but w
  
 Trade is typically optimized to promote efficiency, whereas resilience is increasingly being recognized as another important objective. However, it is not clear if prioritizing resilience comes at the expense of efficiency or if the two objectives can be promoted simultaneously. I developed a complex network framework, built upon the repeat movement of food commodities between nations, to quantify the efficiency and resilence of food trade for the last century. As unprecedented in investigating the interplay between efficiency and resilience for global food trade, I revealed that trade of food groups is more at equilibrium than individual commodities.
 <!-- </p> -->
-
-## Social vulnerability and equity perspectives on interdependent infrastructure resilience
 
