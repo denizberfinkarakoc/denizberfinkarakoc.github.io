@@ -12,7 +12,9 @@ redirect_from:
 
 My research centers on understanding and enhancing the resilience of cyber-physical-social systems. These complex systems incorporate computerized, physical, and societal components. Given the societal reliance on their continuous operation, safeguarding them against risks is paramount. However, resilience is multi-dimensional. For every real-world system, (i) resilience against what?, (ii) resilience for whom?, and (iii) resilience at what cost? must be discerned. My research vision is to cultivate multi-dimensional resilience across agri-food, transportation, and infrastructural systems.
 
-I am currently a senior Ph.D. candidate in the Department of Civil and Environmental Engineering at the [University of Illinois Urbana-Champaign](https://cee.illinois.edu/) with the specialization area of Sustainable and Resilient Infrastructure Systems, where I am advised by [Dr. Megan Konar](https://mkonar.cee.illinois.edu/). My dissertation focuses on the resilience of agri-food flow networks and their supporting transportation architecture across spatial scales.
+I earned my M.S. degree from the School of Industrial and Systems Engineering in the [University of Oklahoma](https://www.ou.edu/coe/ise), where I was advised by [Dr. Kash Barker](https://www.ou.edu/systemslab/). My thesis delves into enhancing the resilience of interdependent infrastructure networks with a social vulnerability and equity emphasis.   
+
+Currently, I am a senior Ph.D. candidate in the Department of Civil and Environmental Engineering at the [University of Illinois Urbana-Champaign](https://cee.illinois.edu/) with the specialization area of Sustainable and Resilient Infrastructure Systems, where I am advised by [Dr. Megan Konar](https://mkonar.cee.illinois.edu/). My dissertation focuses on the resilience of agri-food flow networks and their supporting transportation architecture across spatial scales.
 
 
 Honors
