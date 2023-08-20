@@ -20,7 +20,7 @@ In this study, through developing a unified framework, I will evaluate the load 
 <!-- <p style="text-align: justify"> -->
 <b>Recently, I explored the interplay of unit cost, cost volatility, and supply diversity in national grain imports with modern portfolio theory. </b>
  
-Many nations rely on imported grain to meet their dietary requirements. Countries aim to balance import risk with the expected return of their grain supplies. I brought these dual objectives of grain trade together by employing modern portfolio theory. Nations that rely on more risky suppliers are observed to be also paying higher unit cost of import. To introduce portfolios that adeptly balance risk vs. return, I formulated a mean-variance optimization model with mass balance. I proposed both optimal and optimum portfolios to determine opportunities for importer nations to achieve more stable and diverse grain supplies, while also acknowledging economic considerations. This study is currently under review.
+Many nations rely on imported grain to meet their dietary requirements. Countries aim to balance import risk with the expected return of their grain supplies. I brought these dual objectives of grain trade together by employing modern portfolio theory. Nations that rely on more risky suppliers are observed to be also paying higher unit cost of import. To introduce portfolios that adeptly balance risk vs. return, I formulated a mean-variance optimization model with mass balance. I proposed both optimal and optimum portfolios to determine opportunities for importer nations to achieve more stable and diverse grain supplies, while also acknowledging economic considerations.
 <!-- </p> -->
 
  <p align="center">
