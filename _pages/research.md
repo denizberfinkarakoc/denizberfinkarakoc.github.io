@@ -24,10 +24,10 @@ Many nations rely on imported grain to meet their dietary requirements. Countrie
 <!-- </p> -->
 
  <p align="center">
- <a <img src="/files/grain.jpg"
+ <img src="/files/grain.jpg"
      style="display:block;
         margin-left: auto;
-        margin-right: auto;" /></a>
+        margin-right: auto;" />
  <br>
  <em>Caption</em>
  </p>
