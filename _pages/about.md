@@ -32,6 +32,9 @@ Honors
 	<li>
 		I have been awarded the ACDIS Summer 2023 Fellowship by UIUC College of Liberal Arts & Sciences!
 	</li>
+	<li>
+		I have been awarded the 2019 Best Thesis Award by OU School of Industrial and Systems Engineering!
+	</li>
 </ul>
 
 
