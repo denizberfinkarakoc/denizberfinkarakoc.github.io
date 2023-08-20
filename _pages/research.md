@@ -23,6 +23,15 @@ In this study, through developing a unified framework, I will evaluate the load 
 Many nations rely on imported grain to meet their dietary requirements. Countries aim to balance import risk with the expected return of their grain supplies. I brought these dual objectives of grain trade together by employing modern portfolio theory. Nations that rely on more risky suppliers are observed to be also paying more unit cost of trade. To introduce portfolios that adeptly balance risk vs. return, I formulated a mean-variance optimization model with mass balance. I proposed both optimal and optimum portfolios to determine opportunities for importer nations to achieve more stable and diverse grain supplies, while also acknowledging economic considerations. This study is currently under review.
 <!-- </p> -->
 
+ <p align="center">
+ <a <img src="/files/grain.jpg"
+     style="display:block;
+        margin-left: auto;
+        margin-right: auto;" /></a>
+ <br>
+ <em>Caption</em>
+ </p>
+
 ## Structural chokepoints of U.S. agri-food flow networks
 
 <!-- <p style="text-align: justify"> -->
