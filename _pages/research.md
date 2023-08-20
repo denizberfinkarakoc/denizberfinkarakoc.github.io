@@ -10,9 +10,9 @@ Agri-food supply chains are complex systems that incorporate production, distrib
 ## Mapping U.S. agri-food flows on multi-modal transportation infrastructure
 
 <!-- <p style="text-align: justify"> -->
-<b>Currently, I leverage my experience in data analytics, network science, and geographic information science and to map U.S. food flows on multi-modal transportation infrastructure. </b>
+<b>Currently, I leverage my experience in data analytics, network science, and geographic information science to map U.S. food flows on multi-modal transportation infrastructure. </b>
  
-In this study, through developing a unified framework, I will evaluate the load of agri-food supply chains by flow type on multiple transportation modes. Further, I will assess the efficiency vs. adaptability against disruptions balance among inland highways, railways, and waterways within the U.S. using econometrics and complex network science. My findings will illuminate the real-world implications of cost vs. benefit in agri-food flow network resilience. This study is soon to be submitted.
+In this study, through developing a unified framework, I will evaluate the load of agri-food supply chains on transportation infrastructure by flow type. Further, I will assess the efficiency vs. adaptability against disruptions balance among inland highways, railways, and waterways within the U.S. using econometrics and complex network science. My findings will illuminate the real-world implications of cost vs. benefit in agri-food flow network resilience. This study is soon to be submitted.
 <!-- </p> -->
 
 ## Optimization of national grain imports to balance risk vs. return
@@ -20,7 +20,7 @@ In this study, through developing a unified framework, I will evaluate the load 
 <!-- <p style="text-align: justify"> -->
 <b>Recently, I explored the interplay of unit cost, cost volatility, and supply diversity in national grain imports with modern portfolio theory. </b>
  
-Many nations rely on imported grain to meet their dietary requirements. Countries aim to balance import risk with the expected return of their grain supplies. I brought these dual objectives of grain trade together by employing modern portfolio theory. Nations that rely on more risky suppliers are observed to be also paying more unit cost of trade. To introduce portfolios that adeptly balance risk vs. return, I formulated a mean-variance optimization model with mass balance. I proposed both optimal and optimum portfolios to determine opportunities for importer nations to achieve more stable and diverse grain supplies, while also acknowledging economic considerations. This study is currently under review.
+Many nations rely on imported grain to meet their dietary requirements. Countries aim to balance import risk with the expected return of their grain supplies. I brought these dual objectives of grain trade together by employing modern portfolio theory. Nations that rely on more risky suppliers are observed to be also paying higher unit cost of import. To introduce portfolios that adeptly balance risk vs. return, I formulated a mean-variance optimization model with mass balance. I proposed both optimal and optimum portfolios to determine opportunities for importer nations to achieve more stable and diverse grain supplies, while also acknowledging economic considerations. This study is currently under review.
 <!-- </p> -->
 
  <p align="center">
@@ -35,9 +35,9 @@ Many nations rely on imported grain to meet their dietary requirements. Countrie
 ## Structural chokepoints of U.S. agri-food flow networks
 
 <!-- <p style="text-align: justify"> -->
-<b>I fused multi-criteria decision-making and network science for a vital component-importance analysis of food flows within the U.S. to address President Biden's Executive Order [#1407](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/). </b>
+<b>I fused multi-criteria decision-making and network science techniques for a vital component-importance analysis of food flows within the U.S. to address President Biden's Executive Order [#1407](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/executive-order-on-americas-supply-chains/). </b>
  
-The agricultural and food systems of the United States are critical for ensuring the stability of both domestic and global food systems. Thus, it is essential to understand their structural resilience to a suite of threats. I employed connectivity, resilience, and efficiency metrics from complex network statistics to identify the spatially resolved structural chokepoints in the agri-food supply chains of the United States. Urban centers emerged as key hubs for processed food transit, but diverse food production geographies led to distinct chokepoints. These chokepoints are also found to be generally consistent through time, particularly for processed food commodities.
+The agricultural and food systems of the United States are critical for ensuring the stability of both domestic and global food systems. Thus, it is essential to understand their structural resilience to a suite of threats. I employed connectivity, resilience, and efficiency metrics from complex network science to identify the spatially resolved structural chokepoints in the agri-food supply chains of the United States. Urban centers emerged as key hubs for processed food transit, but diverse food production geographies led to distinct chokepoints. These chokepoints are also found to be generally consistent through time, particularly for processed food commodities.
 <!-- </p> -->
 
 <p align="center">
@@ -52,9 +52,9 @@ The agricultural and food systems of the United States are critical for ensuring
 ## Temporal food flows between U.S. counties
 
 <!-- <p style="text-align: justify"> -->
-<b>I estimated food movement across U.S. counties in 2007, 2012, and 2017 by a machine learning model, and uncovered spatial trends by time-series analysis.</b>
+<b>I estimated food movement across U.S. counties in 2007, 2012, and 2017 by a machine learning model, and uncovered spatial trends through time-series analysis.</b>
  
-I built on the existing literature in fine grained spatial fluxes of food, but with the additional consideration of time. I developed an improved version of the Food Flow Model, a data-driven model, to estimate food flows (kg) between all county pairs across all food commodity groups for the years 2007, 2012, and 2017 which requires estimating 206.3 million links. Then, I determined the core counties to the U.S. food flow networks through time by leveraging a multi-criteria decision analysis technique. To share the key findings of this study with general public, an openly available data visualization portal, [foodflows.org](https://foodflows.org/), is built together with the College of Education.
+I built on the existing literature in fine grained spatial fluxes of food, but with the additional consideration of time. I developed an improved version of the Food Flow Model, a data-driven model, to estimate food flows (kg) between all county pairs across all food commodity groups for the years 2007, 2012, and 2017 which requires estimating 206.3 million links. Then, I determined the core counties to the U.S. food flow networks through time by leveraging a multi-criteria decision analysis technique. To share the key findings of this study with the general public, an openly available data visualization portal, [foodflows.org](https://foodflows.org/), is built together with the College of Education.
 <!-- </p> -->
 
 <p align="center">
@@ -71,6 +71,6 @@ I built on the existing literature in fine grained spatial fluxes of food, but w
 <!-- <p style="text-align: justify"> -->
 <b>I captured the logistics of agri-food trade with a network science perspective and assessed the balance between efficiency and resilience using statistical connectivity metrics. </b>
  
-Trade is typically optimized to promote efficiency, whereas resilience is increasingly being recognized as another important objective. However, it is not clear if prioritizing resilience comes at the expense of efficiency or if the two objectives can be promoted simultaneously. I developed a complex network framework, built upon the repeat movement of food commodities between nations, to quantify the efficiency and resilence of food trade for the last century. As unprecedented in investigating the interplay between efficiency and resilience for global food trade, I revealed that trade of food groups is more at equilibrium than individual commodities.
+Trade is typically optimized to promote efficiency, whereas resilience is increasingly being recognized as another important objective. However, it is not clear if prioritizing resilience comes at the expense of efficiency or if the two objectives can be promoted simultaneously. I developed a complex network framework, built upon the repeat movement of food commodities across nations, to quantify the efficiency and resilence of food trade for the last century. As unprecedented in investigating the interplay between efficiency and resilience for global food trade, I revealed that trade of food groups is more at equilibrium than individual commodities.
 <!-- </p> -->
 
