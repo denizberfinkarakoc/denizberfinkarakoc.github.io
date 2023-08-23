@@ -24,7 +24,7 @@ Honors
 		Our paper is featured as the cover of <a href='https://www.nature.com/natfood/volumes/4/issues/7'>Nature Food July 2023 Issue</a>!
 	</li>
 	<li>
-		I have been invited to the 2023 CEE MIT Rising Stars!
+		I have been invited to the 2023 CEE Rising Stars at MIT!
 	</li>
 	<li>
 		I have been awarded the 2023-2024 Dissertation Completion Fellowship by UIUC Graduate College!
