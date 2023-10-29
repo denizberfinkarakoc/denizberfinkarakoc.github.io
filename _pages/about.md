@@ -42,7 +42,7 @@ Currently, I am a senior Ph.D. candidate in the Department of Civil and Environm
 <ul>
 	<li><b>Structural chokepoints determine the resilience of agri-food supply chains in the United States</b>
 			<br/>
-			<b>Deniz Berfin Karakoc</b>, Megan Konar, Michael J. Puma, Lav V. Varshney
+			<b>Deniz Berfin Karakoc</b>, Megan Konar, Michael J. Puma, Lav R. Varshney
 			<br/>
 			Nature Food 2023 <a href='https://www.nature.com/articles/s43016-023-00793-y'>[Paper]</a> <br/>
 	</li>
