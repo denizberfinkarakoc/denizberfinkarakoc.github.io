@@ -17,8 +17,7 @@ I earned my M.S. degree from the School of Industrial and Systems Engineering at
 Currently, I am a senior Ph.D. candidate in the Department of Civil and Environmental Engineering at the [University of Illinois Urbana-Champaign](https://cee.illinois.edu/) with the specialization area of Sustainable and Resilient Infrastructure Systems, where I am advised by [Dr. Megan Konar](https://mkonar.cee.illinois.edu/). My dissertation focuses on the resilience of agri-food flow networks and their supporting transportation architecture across spatial scales.
 
 
-Honors
-============
+<h2 id="honors">Honors</h2>
 <ul>
 	<li>
 		Our paper is featured as the cover of <a href='https://www.nature.com/natfood/volumes/4/issues/7'>Nature Food July 2023 Issue</a>!
@@ -39,8 +38,7 @@ Honors
 
 
 
-Publications
-============
+<h2 id="publications">Selected Publications</h2>
 <ul>
 	<li><b>Structural chokepoints determine the resilience of agri-food supply chains in the United States</b>
 			<br/>
@@ -84,8 +82,7 @@ Publications
 
 
 
-Professional Activity
-==============
+<h2 id="service">Professional Activity</h2>
 <ul>
 	<li>
 		<b>Session Chair</b>
@@ -132,9 +129,11 @@ Professional Activity
 
 
 	
-Teaching
-========
+<h2 id="teaching">Teaching</h2>
 <ul>
+	<li>
+		Guest Lecturer, CEE 598 Globalization of Water
+	</li>
 	<li>
 		Teaching Assistant, ISE 3293/5013 Fundamentals of Engineering Statistical Analysis
 	</li>
