@@ -58,19 +58,19 @@ Currently, I am a senior Ph.D. candidate in the Department of Civil and Environm
 			<br/>
 			Environmental Research Letters 2022 <a href='https://iopscience.iop.org/article/10.1088/1748-9326/ac5270/meta'>[Paper]</a> <br/>
 	</li>
-	<li><b>A Complex Network Framework for the Efficiency and Resilience Trade-off in Global Food Trade</b>
+	<li><b>A complex network framework for the efficiency and resilience trade-off in global food trade</b>
 			<br/>
 			<b>Deniz Berfin Karakoc</b>, Megan Konar
 			<br/>
 			Environmental Research Letters 2021 <a href='https://iopscience.iop.org/article/10.1088/1748-9326/ac1a9b/meta'>[Paper]</a> <br/>
 	</li>
-	<li><b>Social-Vulnerability and Equity Perspectives on Interdependent Infrastructure Network Component Importance</b>
+	<li><b>Social-vulnerability and equity perspectives on interdependent infrastructure network component importance</b>
 			<br/>
 			<b>Deniz Berfin Karakoc</b>, Kash Barker, Christopher Zobel, Yasser Almoghathawi
 			<br/>
 			Sustainable Cities and Society 2020 <a href='https://www.sciencedirect.com/science/article/abs/pii/S2210670720300597?casa_token=YTMRnz10gDYAAAAA:cSyn5DfM-gb1xXnZqBUnxOheHXuqlEUwuvRt4lycL3fVoSJzd0Ex0FjJ3yIoTYGVN0782_d0PSU'>[Paper]</a> <br/>
 	</li>
-	<li><b>Community-Resilience Driven Restoration Model for Interdependent Infrastructure Networks</b>
+	<li><b>Community-resilience driven restoration model for interdependent infrastructure networks</b>
 			<br/>
 			<b>Deniz Berfin Karakoc</b>, Yasser Almoghathawi, Kash Barker, Andrés González, Shima Mohebbi
 			<br/>
