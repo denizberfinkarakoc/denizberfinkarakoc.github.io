@@ -3,6 +3,16 @@ permalink: /research/
 title: "Research"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YDNKHRVV24"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YDNKHRVV24');
+</script>
+
 I have had the opportunity to lead a number of interesting research projects during my Ph.D. My research combines network science, data analysis, optimization, multi-criteria decision-making, econometrics, and geographic information science methods to investigate the resilience of agri-food flow networks across spatial scales and then proposes practical solutions ensuring societal well-being and environmental stability. 
 
 Agri-food supply chains are complex systems that incorporate production, distribution, processing, and consumption of perishable goods. Their safeguarding is essential to feed humanity. However, food supply chains have become subject to an array of unforeseen threats, such as climate change, pandemics, cyber intrusions, geopolitical conflicts, and economic crises. As “affordable and available food for everyone, at all times” ensures a stable economy and civil rest, my research recognizes food supply chains as non-traditional defense objects. I concentrate on their distribution step (i.e., food flow networks) which serves as the bridge between supply and demand. I lead descriptive and predictive analytical studies to ensure resilient agri-food flow networks; thus, food security. Here is a summary of some of my research efforts.

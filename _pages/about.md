@@ -8,6 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YDNKHRVV24"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YDNKHRVV24');
+</script>
+
+
 <p style="color:blue;"> <b> I am currently in the academic job market for Fall 2024! </b> </p> 
 
 My research centers on understanding and enhancing the resilience of cyber-physical-social systems. These complex systems incorporate computerized, physical, and societal components. Given the societal reliance on their continuous operation, safeguarding them against risks is paramount. However, resilience is multi-dimensional. For every real-world system, (i) resilience against what?, (ii) resilience for whom?, and (iii) resilience at what cost? must be discerned. My research vision is to cultivate multi-dimensional resilience across agri-food, transportation, and infrastructural systems.
