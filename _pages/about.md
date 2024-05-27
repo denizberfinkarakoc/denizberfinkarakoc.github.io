@@ -30,7 +30,7 @@ Currently, I am a senior Ph.D. candidate in the Department of Civil and Environm
 
 Prospective Students
 ============
-<p style="color:blue;"> <b>[Spring/Fall 25] I am looking for motivated Ph.D. students! If you are interested in working with me, please reach out through my email.</b> </p>
+<p style="color:blue;"> <b> I am looking for motivated Ph.D. students to start in Spring/Fall 2025! If you are interested in working with me, please reach out through my email.</b> </p>
 
 
 <h2 id="honors">Honors</h2>
