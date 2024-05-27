@@ -19,13 +19,18 @@ redirect_from:
 </script>
 
 
-<p style="color:blue;"> <b> I am currently in the academic job market for Fall 2024! </b> </p> 
+<p style="color:blue;"> <b> I will start as an Assistant Professor in the <a href='https://scai.engineering.asu.edu/'>School of Computing and Augmented Intelligence</a> at <a href='https://www.asu.edu/'>Arizona State University</a> in Fall 2024! </b> </p> 
 
 My research centers on understanding and enhancing the resilience of cyber-physical-social systems. These complex systems incorporate computerized, physical, and societal components. Given the societal reliance on their continuous operation, safeguarding them against risks is paramount. However, resilience is multi-dimensional. For every real-world system, (i) resilience against what?, (ii) resilience for whom?, and (iii) resilience at what cost? must be discerned. My research vision is to cultivate multi-dimensional resilience across agri-food, transportation, and infrastructural systems.
 
 I earned my M.S. degree from the School of Industrial and Systems Engineering at the [University of Oklahoma](https://www.ou.edu/coe/ise), where I was advised by [Dr. Kash Barker](https://www.ou.edu/systemslab/). My thesis delves into enhancing the resilience of interdependent infrastructure networks with an emphasis on social vulnerability and equity.   
 
 Currently, I am a senior Ph.D. candidate in the Department of Civil and Environmental Engineering at the [University of Illinois Urbana-Champaign](https://cee.illinois.edu/) with the specialization area of Sustainable and Resilient Infrastructure Systems, where I am advised by [Dr. Megan Konar](https://mkonar.cee.illinois.edu/). My dissertation focuses on the resilience of agri-food flow networks and their supporting transportation architecture across spatial scales.
+
+
+Prospective Students
+============
+<b>[Spring/Fall 25]</b> I am looking for motivated Ph.D. students! If you are interested in working with me, please reach out through my email.
 
 
 <h2 id="honors">Honors</h2>
