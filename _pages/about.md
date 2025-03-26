@@ -97,7 +97,6 @@ I earned my Ph.D. degree from the Department of Civil and Environmental Engineer
 			<br/>
 			International Journal of Disaster Risk Reduction 2019 <a href='https://www.sciencedirect.com/science/article/abs/pii/S2212420919301992?casa_token=VcaM_PW11GQAAAAA:6g7OtHFHLaPzRMJJXnZTVukaPNwu0vSyS1gjbKsMlinA1JuOOMWCdBwr6REDcdLThXkumiOpllo'>[Paper]</a> <br/>
 	</li>
-</ul>
 
 
 
