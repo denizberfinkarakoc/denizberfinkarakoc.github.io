@@ -19,18 +19,14 @@ redirect_from:
 </script>
 
 
-<p style="color:blue;"> <b> I will start as an Assistant Professor in the <a href='https://scai.engineering.asu.edu/'>School of Computing and Augmented Intelligence</a> at <a href='https://www.asu.edu/'>Arizona State University</a> in Fall 2024! </b> </p> 
+<p style="color:blue;"> <b> I am an Assistant Professor in the <a href='https://scai.engineering.asu.edu/'>School of Computing and Augmented Intelligence</a> at <a href='https://www.asu.edu/'>Arizona State University</a> since Fall 2024! </b> </p> 
 
 My research centers on understanding and enhancing the resilience of cyber-physical-social systems. These complex systems incorporate computerized, physical, and societal components. Given the societal reliance on their continuous operation, safeguarding them against risks is paramount. However, resilience is multi-dimensional. For every real-world system, (i) resilience against what?, (ii) resilience for whom?, and (iii) resilience at what cost? must be discerned. My research vision is to cultivate multi-dimensional resilience across agri-food, transportation, and infrastructural systems.
 
 I earned my M.S. degree from the School of Industrial and Systems Engineering at the [University of Oklahoma](https://www.ou.edu/coe/ise), where I was advised by [Dr. Kash Barker](https://www.ou.edu/systemslab/). My thesis delves into enhancing the resilience of interdependent infrastructure networks with an emphasis on social vulnerability and equity.   
 
-Currently, I am a senior Ph.D. candidate in the Department of Civil and Environmental Engineering at the [University of Illinois Urbana-Champaign](https://cee.illinois.edu/) with the specialization area of Sustainable and Resilient Infrastructure Systems, where I am advised by [Dr. Megan Konar](https://mkonar.cee.illinois.edu/). My dissertation focuses on the resilience of agri-food flow networks and their supporting transportation architecture across spatial scales.
+I earned my Ph.D. degree from the Department of Civil and Environmental Engineering at the [University of Illinois Urbana-Champaign](https://cee.illinois.edu/) with the specialization area of Sustainable and Resilient Infrastructure Systems, where I was advised by [Dr. Megan Konar](https://mkonar.cee.illinois.edu/). My dissertation focuses on the resilience of agri-food flow networks and their supporting transportation architecture across spatial scales.
 
-
-Prospective Students
-============
-<p style="color:blue;"> <b> I am looking for motivated Ph.D. students to start in Spring/Fall 2025! If you are interested in working with me, please reach out through my email.</b> </p>
 
 
 <h2 id="honors">Honors</h2>
@@ -56,7 +52,16 @@ Prospective Students
 
 <h2 id="publications">Selected Publications</h2>
 <ul>
-	<li><b>Structural chokepoints determine the resilience of agri-food supply chains in the United States</b>
+	<li><b>Trade-offs between resilience, sustainability and cost in the US agri-food transportation infrastructure</b>
+			<br/>
+			<b>Deniz Berfin Karakoc</b>, Megan Konar<br/>
+			Nature Food 2025 <a href='https://www.nature.com/articles/s43016-025-01128-9'>[Paper]</a> <br/>	
+			<li><b>Optimization of national grain imports to balance risk and return: A portfolio theory approach</b>
+			<br/>
+			<b>Deniz Berfin Karakoc</b>, Megan Konar<br/>
+			Environmental Research: Food Systems 2024 <a href='https://iopscience.iop.org/article/10.1088/2976-601X/ad22d1/meta'>[Paper]</a> <br/>
+	</li>
+			<li><b>Structural chokepoints determine the resilience of agri-food supply chains in the United States</b>
 			<br/>
 			<b>Deniz Berfin Karakoc</b>, Megan Konar, Michael J. Puma, Lav R. Varshney
 			<br/>
@@ -98,68 +103,15 @@ Prospective Students
 
 
 
-<h2 id="service">Professional Activity</h2>
-<ul>
-	<li>
-		<b>Session Chair</b>
-		<ul>
-			<li>
-				Empirical analysis for food supply chain decision-making, INFORMS Annual Meeting 2023
-			</li>
-			<li>
-				Agri-food supply chain resilience and sustainability with a focus on human impacts on forest ecosystems, AGU Fall Meeting 2023
-			</li>
-		</ul>
-	</li>
-</ul>
-<ul>
-	<li>
-		<b>Reviewer</b>
-		<ul>
-			<li>
-				Nature Food 2022, 2023
-			</li>
-			<li>
-				Journal of Industrial Ecology 2023
-			</li>
-			<li>
-				Nature Scientific Reports 2022
-			</li>
-			<li>
-				Food Policy 2022
-			</li>
-			<li>
-				Water Resources Research 2021
-			</li>
-			<li>
-				Economic System Research 2020
-			</li>
-			<li>
-				PLoS ONE 2020
-			</li>
-		</ul>
-	</li>
-</ul>
-
-
-
-
 	
 <h2 id="teaching">Teaching</h2>
 <ul>
 	<li>
+		Instructor, IEE 210 Introduction to Industrial Engineering
+	</li>
+	<li>
 		Guest Lecturer, CEE 598 Globalization of Water
 	</li>
-	<li>
-		Teaching Assistant, ISE 3293/5013 Fundamentals of Engineering Statistical Analysis
-	</li>
-	<li>
-		Teaching Assistant, ISE 3293/5013 Applied Engineering Statistics		
-	</li>
-	<li>
-		Teaching Assistant, ISE 4553/5553 Data-Driven Decision Making I		
-	</li>
-</ul>
 
 
 
