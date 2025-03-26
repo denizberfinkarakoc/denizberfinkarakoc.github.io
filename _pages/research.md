@@ -31,7 +31,7 @@ Different geographic regions and transportation modes are mainly responsible fro
         margin-left: auto;
         margin-right: auto;" />
  <br>
- <em>Agri-food specific load on US highways, railways, and waterways for (A) export, (B) domestic, and (C) import flows.</em>
+ <em>Agri-food specific load on US highways, railways, and waterways for (A) domestic, (B) export, and (C) import flows.</em>
  </p>
 
 ## Optimization of national grain imports to balance risk vs. return
