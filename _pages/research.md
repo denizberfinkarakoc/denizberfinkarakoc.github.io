@@ -20,15 +20,24 @@ Agri-food supply chains are complex systems that incorporate production, distrib
 ## Mapping U.S. agri-food flows on multi-modal transportation infrastructure
 
 <!-- <p style="text-align: justify"> -->
-<b>Currently, I leverage my experience in data analytics, network science, and geographic information science to map U.S. food flows on multi-modal transportation infrastructure. </b>
+<b>Recently, I leveraged my experience in data analytics, network science, and geographic information science to map U.S. food flows on multi-modal transportation infrastructure. </b>
  
-In this study, through developing a unified framework, I will evaluate the load of agri-food supply chains on transportation infrastructure by flow type. Further, I will assess the efficiency vs. adaptability against disruptions balance among inland highways, railways, and waterways within the U.S. using econometrics and complex network science. My findings will illuminate the real-world implications of cost vs. benefit in agri-food flow network resilience. This study is soon to be submitted.
+Different geographic regions and transportation modes are mainly responsible from transporting agri-food commodities within the U.S. Through developing a unified framework, I evaluate the load of agri-food supply chains on transportation infrastructure by flow type across US regions. Further, I assess the trade-off between sustainability vs. efficiency vs. resilience against disruptions among inland highways, railways, and waterways. My findings illuminate the real-world implications of cost vs. benefit in agri-food flow network resilience.
 <!-- </p> -->
+
+<p align="center">
+ <img src="/files/infrastructure.jpg"
+     style="display:block;
+        margin-left: auto;
+        margin-right: auto;" />
+ <br>
+ <em>Agri-food specific load on US highways, railways, and waterways for (A) export, (B) domestic, and (C) import flows.</em>
+ </p>
 
 ## Optimization of national grain imports to balance risk vs. return
 
 <!-- <p style="text-align: justify"> -->
-<b>Recently, I explored the interplay of unit cost, cost volatility, and supply diversity in national grain imports with modern portfolio theory. </b>
+<b>I explored the interplay of unit cost, cost volatility, and supply diversity in national grain imports with modern portfolio theory. </b>
  
 Many nations rely on imported grain to meet their dietary requirements. Countries aim to balance import risk with the expected return of their grain supplies. I brought these dual objectives of grain trade together by employing modern portfolio theory. Nations that rely on more risky suppliers are observed to be also paying higher unit cost of import. To introduce portfolios that adeptly balance risk vs. return, I formulated a mean-variance optimization model with mass balance. I proposed both optimal and optimum portfolios to determine opportunities for importer nations to achieve more stable and diverse grain supplies, while also acknowledging economic considerations.
 <!-- </p> -->
