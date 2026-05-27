@@ -105,6 +105,9 @@ I earned my Ph.D. degree from the Department of Civil and Environmental Engineer
 	
 <h2 id="teaching">Teaching</h2>
 <ul>
+  <li>
+		Instructor, IEE 534 Supply Chain Modeling and Analysis
+	</li>
 	<li>
 		Instructor, IEE 210 Introduction to Industrial Engineering
 	</li>
